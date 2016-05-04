@@ -1,0 +1,13 @@
+{
+  "name": "dkoa-headers",
+  "description": "Set all security relevant response headers",
+  "version": "1.0.0",
+  "homepage": "http://github.com/dnode/dkoa-headers",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "src/middleware.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnode/dkoa-headers.git"
+  }
+}
